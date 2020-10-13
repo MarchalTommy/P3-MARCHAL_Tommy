@@ -21,9 +21,9 @@ Cette application à été développée dans le but d'être compatible avec l'AP
 
 1/  Télécharger le repository : Cliquer sur "Code" 
 
-                                    -Soit cloner le git grâce à la première option
+   -Soit cloner le git grâce à la première option
                                     
-                                    -Soit télécharger le ZIP
+   -Soit télécharger le ZIP
                                     
 2/  Ouvrir le dossier récupéré avec Android Studio (application faite depuis Android Studio 4.0.1)
 
